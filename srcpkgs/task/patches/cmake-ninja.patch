@@ -3,7 +3,7 @@ not required anyway
 
 --- a/CMakeLists.txt
 +++ b/CMakeLists.txt
-@@ -165,17 +165,6 @@
+@@ -172,17 +172,6 @@
    install (FILES ${doc_FILE}  DESTINATION ${TASK_DOCDIR})
  endforeach (doc_FILE)
  
